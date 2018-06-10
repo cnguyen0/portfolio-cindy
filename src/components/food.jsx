@@ -7,7 +7,7 @@ export default class Food extends React.Component {
       <div>
         <Modal trigger={
 					<Card link>
-						<Image src='./client/img/foodrecyle.png' />
+						<Image src='./src/img/foodrecyle.png' />
 						<Card.Content>
 							<Card.Header>
 								DRG Food Recovery

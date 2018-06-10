@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Icon, Image, Modal, Header, Grid } from 'semantic-ui-react'
+import { Grid } from 'semantic-ui-react'
 
 import Info362 from './362.jsx';
 import Photography from './photography.jsx';

@@ -7,7 +7,7 @@ export default class Info362 extends React.Component {
       <div>
         <Modal trigger={
 					<Card link>
-						<Image src='./client/img/netflix.png' />
+            <Image src='./src/img/netflix.png' />
 						<Card.Content>
 							<Card.Header>
 								INFO 362: Visual Information Design
@@ -39,7 +39,7 @@ export default class Info362 extends React.Component {
                 tries to get to the vision that I had and a LOT of time to carefully craft that vision.</p>
               <p>For a full demonstration of my entire design process, please see the following website: 
                 <a href="http://nguyenkcindy.wixsite.com/362portfolio2017"> http://nguyenkcindy.wixsite.com/362portfolio2017</a></p>
-              <Image src='./client/img/netflixInfo.png' />
+              <Image src='./src/img/netflixInfo.png' />
             </Modal.Description>
           </Modal.Content>
         </Modal>

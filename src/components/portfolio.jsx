@@ -1,5 +1,5 @@
 import React from 'react';
-import { Card, Icon, Image, Transition, Modal, Header, Grid } from 'semantic-ui-react'
+import { Grid } from 'semantic-ui-react'
 
 import Unavsa from './unavsa.jsx';
 import Capstone from './capstone.jsx';

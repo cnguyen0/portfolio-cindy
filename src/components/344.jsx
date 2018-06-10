@@ -7,7 +7,7 @@ export default class Info344 extends React.Component {
       <div>
         <Modal trigger={
 					<Card link>
-						<Image src='./client/img/gopherkey.png' />
+						<Image src='./src/img/gopherkey.png' />
 						<Card.Content>
 							<Card.Header>
 								INFO 344: Sever-Side Final Project

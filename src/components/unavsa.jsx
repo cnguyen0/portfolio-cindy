@@ -7,7 +7,7 @@ export default class Unavsa extends React.Component {
       <div>
         <Modal trigger={
           <Card link>
-            <Image src='./client/img/unavsa.png' />
+            <Image src='./src/img/unavsa.png' />
             <Card.Content>
               <Card.Header>
                 UNAVSA Registration Platform

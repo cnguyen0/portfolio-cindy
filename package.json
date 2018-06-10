@@ -6,7 +6,7 @@
   "license": "MIT",
   "homepage": "http://cnguyen0.github.io/portfolio-cindy",
   "scripts": {
-    "start": "webpack-dev-server",
+    "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
     "eject": "react-scripts eject",

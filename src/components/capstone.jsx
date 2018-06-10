@@ -7,7 +7,7 @@ export default class Capstone extends React.Component {
       <div>
         <Modal trigger={
 					<Card link>
-						<Image src='./client/img/ischool.png' />
+						<Image src='./src/img/ischool.png' />
 						<Card.Content>
 							<Card.Header>
 								Capstone: Grandma's House

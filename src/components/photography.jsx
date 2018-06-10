@@ -7,7 +7,7 @@ export default class Photography extends React.Component {
       <div>
         <Modal trigger={
 					<Card link>
-						<Image src='./client/img/camera.png' />
+						<Image src='./src/img/camera.png' />
 						<Card.Content>
 							<Card.Header>
 								Personal Photography
@@ -38,18 +38,18 @@ export default class Photography extends React.Component {
                 so I can practice more. Feel free to check out my Instagram or view some photos below.</p>
               <Grid columns={1}>
                 <Grid.Column>
-                  <Image src="./client/img/photography/IMG_4025.jpg" />
+                  <Image src="./src/img/photography/IMG_4025.jpg" />
                 </Grid.Column>
               </Grid>
               <Grid columns={3}>
                 <Grid.Column>
-                  <Image src="./client/img/photography/IMG_4011.jpg" />
+                  <Image src="./src/img/photography/IMG_4011.jpg" />
                 </Grid.Column>
                 <Grid.Column>
-                  <Image src="./client/img/photography/IMG_4356.jpg" />
+                  <Image src="./src/img/photography/IMG_4356.jpg" />
                 </Grid.Column>
                 <Grid.Column>
-                  <Image src="./client/img/photography/IMG_4444.jpg" />
+                  <Image src="./src/img/photography/IMG_4444.jpg" />
                 </Grid.Column>
               </Grid>
             </Modal.Description>

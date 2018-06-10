@@ -1,7 +1,6 @@
 import React from 'react';
 import { Tab } from 'semantic-ui-react'
 import { Image, Grid } from 'semantic-ui-react'
-import { Link } from 'react-router-dom'
 
 import Portfolio from './portfolio.jsx'
 import Creative from './creative.jsx'
